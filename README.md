@@ -1,3 +1,4 @@
+# sgn-compiler
 SGN — Système de Gestion des Notes
 SGN est un projet universitaire de compilation qui permet d'analyser des fichiers de notes rédigés dans un langage spécialement conçu pour organiser les résultats des étudiants des niveaux L1, L2 et L3.
 
